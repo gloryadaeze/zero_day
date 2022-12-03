@@ -1,1 +1,1 @@
-this is my first readme on vagrant
+This file is mandatory in projects
